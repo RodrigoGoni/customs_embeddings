@@ -1,0 +1,10 @@
+numpy
+matplotlib
+gdown
+pandas
+gensim
+seaborn
+tensorflow
+scikit-learn
+plotly
+nbformat
