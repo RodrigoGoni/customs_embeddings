@@ -8,3 +8,5 @@ tensorflow
 scikit-learn
 plotly
 nbformat
+bs4
+nltk
